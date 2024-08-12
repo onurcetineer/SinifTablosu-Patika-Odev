@@ -1,0 +1,21 @@
+table{
+    width: 100%;
+}
+
+thead{
+    background-color: #FEBF5E;
+    padding: 10px;
+}
+
+th{
+    border: 1px solid grey;
+    padding: 10px;
+}
+td{
+    border: 1px solid grey;
+    padding: 10px;
+    text-align:center;
+}
+h1{
+    text-align:center;
+}
